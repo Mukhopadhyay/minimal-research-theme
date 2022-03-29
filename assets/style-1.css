@@ -37,8 +37,16 @@ a:hover {
     border-left: 1px solid #ddd;
 }
 
-.menulink:hover {
+/* .menulink:hover {
     color: #111;
+} */
+
+.menulink {
+    color: #ddd !important;
+}
+
+.menulink:hover {
+    color: #fff !important;
 }
 
 .profilepic {
